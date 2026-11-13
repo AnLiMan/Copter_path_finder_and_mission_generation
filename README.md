@@ -1,4 +1,4 @@
-# Copter_path_fined_and_mission_generation
+# Copter_path_finder_and_mission_generation
 Обработка osm-карт для поиска пути при помощи алгоритма A star и последующей генерации полетного задания в qground control
 
 ## Запуск скриптов рекомендуется проводить из стандартной папки
